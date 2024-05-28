@@ -1,1 +1,2 @@
-Streamlit Deployment of a Convolutional Neural Network. It allows the user to upload images, the model will then determine whether the X-ray image exhibits signs of a respiratory disease
+## Viral Pneumonia Detection
+This project involves deploying a Convolutional Neural Network (CNN) using Streamlit to allow users to upload X-ray images, which the model will then analyze to determine the presence of respiratory diseases. The deployment process includes building the CNN model, developing the Streamlit application, and setting up the deployment environment.
