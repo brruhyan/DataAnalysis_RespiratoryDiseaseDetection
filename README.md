@@ -3,3 +3,6 @@ This project involves deploying a Convolutional Neural Network (CNN) using [Stre
 
 ## Limitations
 The application can only determine either if an X-ray image exhibits signs of VIRAL PNEUMONIA or if it is NORMAL. The application can only take in 150x150px images. 
+
+## Deployed Model
+The application is deployed through Streamlit, the CNN model is imported through GIT BASH. You can test out the application [here!](https://dataanalysisrespiratorydiseasedetection-svywseoj4rmzhzsdzzgjz2.streamlit.app/)
